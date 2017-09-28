@@ -1,0 +1,26 @@
+2017/9/28
+学习计划
+1.node安装（必备技能）
+  a.window,linux,mac 安装
+  b.如何检测安装成功能
+2.npm 源配置(cnpm 或nrm)（必备技能）
+  a.配置cnpm，nrm
+  b.熟练安装模块
+3.package.json文件（必备技能）
+  a.如何产生这个文档
+  b.熟悉文档的重要节点
+4.webpack.config.js(必备技能)
+  a.如何产生这个文档
+  b.熟悉文档的重要节点
+5.vue基础工程搭建(必备技能)
+  a.用CDN模式进行vue工程  helloworld
+  b.用模块方式进行vue工程 helloworld
+6.工程目录(必备技能)
+  a.熟悉目录结构
+  b.如何进行目录设计和目的
+7.ES6 语法 export,import 模块
+  a.熟练export使用
+  b.熟练inport使用 
+8.对象数组遍历
+  a.如何遍历对象和数组
+  b.遍历转换数据
